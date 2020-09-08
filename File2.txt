@@ -1,1 +1,1 @@
-Hello from file 2. Now Testing branching.
+Hello from file 2. Now Testing branching. another branch test from sub 2.
